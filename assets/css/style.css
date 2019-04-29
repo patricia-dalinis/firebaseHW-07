@@ -1,0 +1,33 @@
+/* * {
+  background: black;
+} */
+
+.jumbotron {
+  background-image: url(../images/train5.gif);
+  background-size: cover;
+  background-position: center center;
+  color: #f2ece0; 
+  text-shadow: black 0.1em 0.1em 0.1em; 
+  font-family: 'Merriweather', serif;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  padding-right: 0;
+  padding-left: 0;
+}
+
+h1 {
+  background-color:rgba(122, 114, 114, 0.685);
+  padding-left: .2em;
+  padding-top: .2em;
+  padding-bottom: .1em;
+}
+
+h5 {
+  background-color:rgba(122, 114, 114, 0.685);
+  padding-left: .5em;
+  padding-top: .1em;
+  padding-bottom: .1em;
+  font-size: 1em;
+}
+
+
